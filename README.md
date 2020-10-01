@@ -7,16 +7,9 @@ This project was made for Durham University International Study Centre Foundatio
 2. Download [projectile_motion.py](https://github.com/rpsh88/projectile-motion/blob/master/projectile_motion.py) and additional Python libraries:
 * [graphics.py](https://www.pas.rochester.edu/~rsarkis/csc161/python/pip-graphics.html)
 * [matplotlib](https://matplotlib.org/3.1.1/users/installing.html)
-3. Run [projectile_motion.py](https://github.com/rpsh88/projectile-motion/blob/master/projectile_motion.py) in terminal.
+3. Run projectile_motion.py in terminal.
 
-### Description
-<object data="https://github.com/rpsh88/projectile-motion/blob/master/presentation_poster.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/rpsh88/projectile-motion/blob/master/presentation_poster.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/rpsh88/projectile-motion/blob/master/presentation_poster.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-### Project Documentation
+### Resources
 * Documention can be found via [here](https://github.com/rpsh88/projectile-motion/blob/master/documentation.pdf).
 * [Project plan](https://github.com/rpsh88/projectile-motion/blob/master/project_plan.pdf)
 * [Presentation poster](https://github.com/rpsh88/projectile-motion/blob/master/presentation_poster.pdf)
