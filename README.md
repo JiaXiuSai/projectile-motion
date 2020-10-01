@@ -4,12 +4,12 @@ This project was made for Durham University International Study Centre Foundatio
 
 ### Installation
 1. You will need to install one of the 3.x versions available at [python.org](https://www.python.org/downloads/).
-2. Download [projectile_motion.py](https://github.com/rpsh88/projectile-motion/blob/master/projectile_motion.py) and additional Python libraries:
+2. Download [**projectile_motion.py**](https://github.com/rpsh88/projectile-motion/blob/master/projectile_motion.py) and additional Python libraries:
 * [graphics.py](https://www.pas.rochester.edu/~rsarkis/csc161/python/pip-graphics.html)
 * [matplotlib](https://matplotlib.org/3.1.1/users/installing.html)
 3. Run **projectile_motion.py** in terminal.
 
 ### Resources
-* Documention can be found via [here](https://github.com/rpsh88/projectile-motion/blob/master/documentation.pdf).
+* Documentation can be found via [here](https://github.com/rpsh88/projectile-motion/blob/master/documentation.pdf).
 * [Project plan](https://github.com/rpsh88/projectile-motion/blob/master/project_plan.pdf)
 * [Presentation poster](https://github.com/rpsh88/projectile-motion/blob/master/presentation_poster.pdf)
