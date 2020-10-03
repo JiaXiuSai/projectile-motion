@@ -1,6 +1,6 @@
 # Projectile Motion Simulation
 ### Overview
-This project was made for Durham University International Study Centre Foundation Computer Science Project for Science module. The project uses the programming principles taught in the classroom and the labs to simulate a model of the Physics concept of projectile motion.
+This Python program uses the programming principles taught in the classroom and the labs to simulate a model of the Physics concept of projectile motion. This project was made for Durham University International Study Centre Foundation Computer Science Project for Science module. 
 
 ### Installation
 1. You will need to install one of the 3.x versions available at [python.org](https://www.python.org/downloads/).
